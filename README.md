@@ -13,6 +13,6 @@
 
 ---
 
-## if you'd like to contact me;
+## if you'd like to get in touch;
 
-### ***visit here🙌*** ➡️ <[velog](https://velog.io/)>
+### ***please visit here🙌*** ➡️ <[velog](https://velog.io/)>
