@@ -13,35 +13,6 @@
 
 ---
 
-### <mark> 마크다운 문법 </mark>
+## if you'd like to contact me;
 
-**볼드**
-
-*틸트*
-
-***볼드와틸트***
-
-~~취소~~
-
----
-### <mark> 코드 삽입 sample </mark>
-1. 한 줄 소스 코드 `funcion add(x,y) {return x + y}
-2. 여러 줄 소스 코드
-```python
-number = int(input("정수입력>"))
-
-if number > 0:
- print("양수입니다.")
-
-elif number <0:
- print("음수입니다.")
-
-else:
- print("0입니다.")
-
-```
-
----
-
-if you'd like to contact me;
-visit here🙌 -><[velog](https://velog.io/)>
+### ***visit here🙌*** ➡️ <[velog](https://velog.io/)>
