@@ -1,4 +1,4 @@
-<mark>firstgit</mark>
+# <mark>firstgit</mark>
 
 **깃허브 사용법**을 연습합니다.
 
