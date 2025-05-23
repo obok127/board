@@ -15,4 +15,4 @@
 
 ## if you'd like to get in touch;
 
-### ***please visit here🙌*** ➡️ <[velog](https://velog.io/)>
+### ***visit here🙌*** ➡️ <[velog](https://velog.io/)>
